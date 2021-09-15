@@ -5,7 +5,8 @@
 <!-- PROJECT DESCRIPTION -->
 ## ➲ Project description
 Apply face detection using Multi-Task Cascaded Convolutional Neural Network model "MTCNN" 
-Paper : https://arxiv.org/abs/1604.02878
+
+MTCNN Paper : https://arxiv.org/abs/1604.02878
 
 <!-- PREREQUISTIES -->
 ## ➲ Prerequisites
