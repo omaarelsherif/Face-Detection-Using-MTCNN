@@ -1,9 +1,9 @@
 ### Face Detection ###
 """
 Description:
-			 Appply face detection using Multi-Task Cascaded Convolutional Neural Network model "MTCNN" 
-Paper :
-		https://arxiv.org/abs/1604.02878
+		Apply face detection using Multi-Task Cascaded Convolutional Neural Network model "MTCNN" algorithm
+		which is based on deep learning where it extract every face bounding box within an image and then we can draw these faces using opencv.
+		MTCNN Paper : https://arxiv.org/abs/1604.02878
 """
 
 # 1 | Import modules
